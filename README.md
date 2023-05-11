@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kshitij Rahangdale
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Bachelor of Computer Application
+- 🌱 I’m Master at Computer Science
 - 💞️ I’m looking to collaborate on TCS, WIPRO, INFOSIS, GOOGLE
 - 📫 How to reach me thorugh my mail ID paragrahangdale80@gmail.com
 
